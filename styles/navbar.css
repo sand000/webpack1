@@ -1,0 +1,19 @@
+#navbar{
+    border: 1px solid blue;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+}
+
+#options{
+display: flex;
+gap: 20px;
+}
+
+a:hover{
+    cursor: pointer;
+    color: red;
+}
+
